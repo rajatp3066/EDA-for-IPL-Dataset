@@ -50,11 +50,13 @@ The dataset includes historical IPL match records and player statistics with the
 ## 📊 Key Visualizations
 Here are some of the key insights extracted using data visualization:
 
-### 1. Top 5 Player of Match 🏏
-![Top Player].https://drive.google.com/file/d/19U0CUvtEEPTOAWqlD_PHfRInuxoKkJlH/view?usp=sharing)
+### 1️⃣ **Top 5 Player of the Match** 🏏  
+![Top Player](https://drive.google.com/uc?export=view&id=19U0CUvtEEPTOAWqlD_PHfRInuxoKkJlH)  
 
-### 2. Top 3 Teams Wins After Batting First 🥇
-![Win After Batting First].(https://drive.google.com/file/d/1gP8HeBtja5rWGRcfpWEJx0Bc4aAoBR0f/view?usp=sharing)
+### 2️⃣ **Top 3 Teams Wins After Batting First** 🥇  
+![Win After Batting First](https://drive.google.com/uc?export=view&id=1gP8HeBtja5rWGRcfpWEJx0Bc4aAoBR0f)  
+
+---
 
 
 (📌 *Make sure to replace `images/` with actual paths where the visualizations are stored in your repository.*)
