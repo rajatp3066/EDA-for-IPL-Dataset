@@ -106,5 +106,5 @@ This project is licensed under the **MIT License**.
 
 🔗 **Author**: Rajatkumar Patel  
 📧 **Contact**: rajatk.patel@yahoo.com  
-🌍 **GitHub**: [Your GitHub Profile](https://github.com/rajatp3066)
+🌍 **GitHub**: [GitHub Profile](https://github.com/rajatp3066)
 
